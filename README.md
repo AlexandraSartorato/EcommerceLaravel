@@ -1,6 +1,6 @@
 # EcommerceLaravel
 
-Demo Website[E-commerce]: http://ecommerceparis.herokuapp.com/
+Demo[E-commerce]: http://ecommerceparis.herokuapp.com/
 
 Starting a Laravel website in local run:
 php artisan serve
