@@ -7,14 +7,14 @@ php artisan serve
 
 Features:
 - [x] Rating system
-[x] Searching filters
-[x] Adding an add
-[x] Delete an add
-[x] Edit an add
-[x] E-mail confirmation
-[x] Authentification
+- [x] Searching filters
+- [x] Adding an add
+- [x] Delete an add
+- [x] Edit an add
+- [x] E-mail confirmation
+- [x] Authentification
 
 
 
 To Do:
-[ ] Use S3 SDK from Amazon for uploading images
+- [ ] Use S3 SDK from Amazon for uploading images
