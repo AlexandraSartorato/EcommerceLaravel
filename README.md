@@ -6,7 +6,7 @@ php artisan serve
 
 
 Features:
-[x] Rating system
+-[x] Rating system
 [x] Searching filters
 [x] Adding an add
 [x] Delete an add
